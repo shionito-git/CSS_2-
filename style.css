@@ -2,11 +2,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-header {
+#main-header {
   background-color: #d1982f4f;
 }
 
-h2 {
+.post h2 {
   color: #d1982f4f;
 }
 
